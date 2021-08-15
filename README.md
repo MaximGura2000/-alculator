@@ -1,2 +1,2 @@
-# -alculator
+# Calculator
 My first GUI code
